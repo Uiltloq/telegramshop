@@ -14,8 +14,8 @@ const App = () => {
   }
 
   return(
-    <div>Магазин буст
-
+    <div>
+      Work
       <button onClick={handleClose}>Закрыть</button>
     </div>
   )
